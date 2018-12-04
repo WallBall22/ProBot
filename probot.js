@@ -824,4 +824,4 @@ message.channel.stopTyping()
 })
 }
 });
-client.login("NTE0ODA4MDI2MTU1MzE5Mjk5.Dtnc_A.xpg43Vxt_TSXn1cgQDkM_zN1iAI");  // توكن حقق
+client.login("NTE0ODA4MDI2MTU1MzE5Mjk5.Dugxvg.RnpBuuOZzCpGj2YypsGzXgJq5s8");  // توكن حقق
